@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BelanjaApp2</string>
+    <string name="nama_product">Nama Product</string>
+    <string name="harga_product">Harga Produk</string>
+    <string name="tambah_product">Tambah Produk</string>
+    <string name="gambar_product">Gambar Produk</string>
+</resources>
